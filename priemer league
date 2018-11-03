@@ -1,51 +1,64 @@
-
-#EXTINF:-1,AR:BeINSport_HD_News
-http://forinone.org:25461/live/jamal/skype/5802.ts
-#EXTINF:-1,AR_BEIN_SPORTS_MAX_1
-http://forinone.org:25461/live/jamal/skype/5803.ts
-#EXTINF:-1,AR_BEIN_SPORTS_MAX_2
-http://forinone.org:25461/live/jamal/skype/5804.ts
-#EXTINF:-1,AR:BeINSports_HD1
-http://forinone.org:25461/live/jamal/skype/5805.ts
-#EXTINF:-1,AR:BeINSports_HD2
-http://forinone.org:25461/live/jamal/skype/5806.ts
-#EXTINF:-1,AR:BeINSports_HD3
-http://forinone.org:25461/live/jamal/skype/5807.ts
-#EXTINF:-1,AR:BeINSports_HD4
-http://forinone.org:25461/live/jamal/skype/5808.ts
-#EXTINF:-1,AR:BeINSports_HD5
-http://forinone.org:25461/live/jamal/skype/5809.ts
-#EXTINF:-1,AR:BeINSports_HD6
-http://forinone.org:25461/live/jamal/skype/5810.ts
-#EXTINF:-1,AR:BeINSports_HD7
-http://forinone.org:25461/live/jamal/skype/5811.ts
-#EXTINF:-1,AR:BeINSports_HD8
-http://forinone.org:25461/live/jamal/skype/5812.ts
-#EXTINF:-1,AR:BeINSports_HD9
-http://forinone.org:25461/live/jamal/skype/5813.ts
-#EXTINF:-1,AR:beINSPORTS_10HD
-http://forinone.org:25461/live/jamal/skype/5814.ts
-#EXTINF:-1,AR:BEINSPORTS_11HD
-http://forinone.org:25461/live/jamal/skype/5815.ts
-#EXTINF:-1,AR:BEINSPORT_13HD
-http://forinone.org:25461/live/jamal/skype/5816.ts
-#EXTINF:-1,AR:BEINSPORT_14HD
-http://forinone.org:25461/live/jamal/skype/5817.ts
-#EXTINF:-1,AR:BEINSPORT_15HD
-http://forinone.org:25461/live/jamal/skype/5818.ts
-#EXTINF:-1,AR:BEINSPORT_16HD
-http://forinone.org:25461/live/jamal/skype/5819.ts
-
-
-#EXTINF:-1,NL:FOX_SPORTS_1_HD
-http://forinone.org:25461/live/jamal/skype/6384.ts
-#EXTINF:-1,NL:FOX_SPORTS_2
-http://forinone.org:25461/live/jamal/skype/6385.ts
-#EXTINF:-1,NL:FOX_SPORTS_3
-http://forinone.org:25461/live/jamal/skype/6386.ts
-#EXTINF:-1,NL:FOX_SPORT4_HD
-http://forinone.org:25461/live/jamal/skype/6387.ts
-#EXTINF:-1,NL:FOX_SPORT5_HD
-http://forinone.org:25461/live/jamal/skype/6388.ts
-#EXTINF:-1,NL:FOX_SPORT_6
-http://forinone.org:25461/live/jamal/skype/6389.ts
+#EXTM3U
+#EXTINF:0 group-title="AF: Afghanistan",AF: AL KASS SPORTS 1 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:0 group-title="AF: Afghanistan",AF: IRIB SPORTS 
+http://e2.iudtv.org:8080/live/tura/123456/2724.ts
+#EXTINF:0 group-title="AF: Afghanistan",AF: IRIB SPORTS (1+) 
+http://212.8.248.213:8080/live/tura/123456/2724.ts
+#EXTINF:0 group-title="AF: Afghanistan",AF: KTV SPORT 
+http://www.elahmad.com/tv/m3u8/ktv.m3u8
+#EXTINF:0 group-title="AF: Afghanistan",AF: NEELAIN SPORT 
+http://194.88.107.101:6204/live/ali03/ali03/6920.ts
+#EXTINF:0 group-title="AF: Afghanistan",AF: SMASH SPORTS 
+http://144.76.182.50:25461/live/smash/smash/4.m3u8
+#EXTINF:0 group-title="AF: Afghanistan",AF: VARZESH SPORT 
+http://e2.iudtv.org:8080/live/tura/123456/2718.ts
+#EXTINF:0 group-title="AF: Afghanistan",AF: VARZESH SPORT (1+) 
+http://212.8.248.213:8080/live/tura/123456/2718.ts
+#EXTINF:0 group-title="AFR: Africa",AFR: CANAL SPORT 1 
+http://e2.iudtv.org:8080/live/tura/123456/939.ts
+#EXTINF:0 group-title="AFR: Africa",AFR: CANAL SPORT 2 
+http://e2.iudtv.org:8080/live/tura/123456/990.ts
+#EXTINF:0 group-title="AFR: Africa",AFR: DIASPORA24 
+http://e2.iudtv.org:8080/live/tura/123456/971.ts
+#EXTINF:0 group-title="AFR: Africa",AFR: SPORT HD
+http://e2.iudtv.org:8080/live/tura/123456/3220.ts
+#EXTINF:0 group-title="AFR: Africa",AFR: SPORT (1+) HD
+http://194.88.107.101:6204/live/ali03/ali03/3514.ts
+#EXTINF:0 group-title="AFR: Africa",AFR: SPORT CAMERN 
+http://e2.iudtv.org:8080/live/tura/123456/3210.ts
+#EXTINF:0 group-title="AL: Albania",AL: ARENASPORT 1 HR HD
+http://e2.iudtv.org:8080/live/tura/123456/283.ts
+#EXTINF:0 group-title="AL: Albania",AL: ARENASPORT 1 SRB HD
+http://e2.iudtv.org:8080/live/tura/123456/271.ts
+#EXTINF:0 group-title="AL: Albania",AL: ARENASPORT 2 HR HD
+http://e2.iudtv.org:8080/live/tura/123456/282.ts
+#EXTINF:0 group-title="AL: Albania",AL: ARENASPORT 2 SRB HD
+http://e2.iudtv.org:8080/live/tura/123456/270.ts
+#EXTINF:0 group-title="AL: Albania",AL: ARENASPORT 3 HR HD
+http://e2.iudtv.org:8080/live/tura/123456/281.ts
+#EXTINF:0 group-title="AL: Albania",AL: ARENASPORT 3 SRB HD
+http://e2.iudtv.org:8080/live/tura/123456/269.ts
+#EXTINF:0 group-title="AL: Albania",AL: ARENASPORT 4 HR HD
+http://e2.iudtv.org:8080/live/tura/123456/280.ts
+#EXTINF:0 group-title="AL: Albania",AL: ARENASPORT 4 SRB HD
+http://e2.iudtv.org:8080/live/tura/123456/242.ts
+#EXTINF:0 group-title="AL: Albania",AL: ARENASPORT 5 SRB HD
+http://e2.iudtv.org:8080/live/tura/123456/265.ts
+#EXTINF:0 group-title="AL: Albania",AL: EUROSPORT 1 HD
+http://e2.iudtv.org:8080/live/tura/123456/219.ts
+#EXTINF:0 group-title="AL: Albania",AL: EUROSPORT 2 HD
+http://e2.iudtv.org:8080/live/tura/123456/218.ts
+#EXTINF:0 group-title="AL: Albania",AL: EUROSPORT 2 (1+) HD
+http://194.88.107.101:6204/live/jian/jian/9123.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: K SPORT 1 
+http://e2.iudtv.org:8080/live/tura/123456/1383.ts
+#EXTINF:0 group-title="AL: Albania",AL: K SPORT 2 
+http://e2.iudtv.org:8080/live/tura/123456/1384.ts
+#EXTINF:0 group-title="AL: Albania",AL: KASS SPORTS 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3593.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: KASS SPORTS 2 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2544.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: KASS SPORTS 4 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3594.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: RTSH SPORT 
